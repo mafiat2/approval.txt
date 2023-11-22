@@ -10,6 +10,8 @@ Admin
 test 1
 2f013b9bdc9d467cb19ec407140f3e578
 
+Free 
+20e79f4bdd16488ba7c95d34c3688e578
 
 day 7
 da7af01f6f0c4fd5a898d69a156dc6578
